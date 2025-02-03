@@ -77,7 +77,7 @@ const CONFIG = {
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '只是个演示',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    '我们制定了灵活的付费模式，您可以按需选择。',
 
   STARTER_PRICING_1_TITLE: '入门版',
   STARTER_PRICING_1_PRICE: '19.9',
